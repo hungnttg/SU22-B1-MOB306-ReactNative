@@ -1,0 +1,7 @@
+========================
+Cài đặt thư viện navigation, các bạn cần làm như sau: 
+1. Vào thư mục GỐC, ta cài yarn bằng lệnh: npm install --global yarn
+2. Vào thư mục ỨNG DỤNG, ta cài navigation bằng 3 lệnh:
+$ yarn add react-navigation
+$ expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+$ yarn add react-navigation-stack @react-native-community/masked-view
